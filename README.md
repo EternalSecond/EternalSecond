@@ -1,33 +1,44 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/EternalSecond">EternalSecond</a> ⚡</h1>
+<h1 align="center">EternalSecond ⚡</h1>
 
 <p align="center">
-  <em>AI & Backend Developer | Training Reinforcement Learning agents & building scalable systems</em>
-</p>
-
-<br>
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,fastapi,git,linux,vim,vscode,discord" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EternalSecond&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalSecond&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <strong>AI experiments. Learning agents. Python backends.</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EternalSecond&theme=tokyonight&hide_border=true&background=0d1117" />
+  Exploring machine learning and reinforcement learning,<br>
+  training agents for games and simulations, and building backend services.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EternalSecond?tab=repositories">Explore my repositories →</a>
 </p>
 
 ---
 
-### 🤖 What I'm focusing on
-- 🧠 **Reinforcement Learning:** Training custom agents and neural networks for games and simulations (PyTorch).
-- ⚡ **Backend Architecture:** Building robust APIs and services with Python, FastAPI & Django.
-- 🔥 **Daily Grind:** Pushing code, experimenting with models, and leveling up every single day.
+### 🧠 What I'm working on
+
+- **Reinforcement Learning** — training agents and experimenting with reward functions in games and simulations.
+- **Machine Learning** — exploring supervised and unsupervised learning with PyTorch and TensorFlow.
+- **Backend Development** — building APIs and services with FastAPI and Django.
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django&theme=dark"
+    alt="Python, PyTorch, TensorFlow, FastAPI, Django"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,linux,vim,vscode&theme=dark"
+    alt="Git, Linux, Vim, Visual Studio Code"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>Build → Train → Evaluate → Improve</sub>
+</p>
