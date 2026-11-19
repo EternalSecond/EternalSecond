@@ -19,7 +19,7 @@ I'm **EternalSecond** — a Python developer interested in how machines learn, d
 
 I enjoy working with **supervised, unsupervised, and reinforcement learning**: building neural networks, experimenting with data, and training agents for games and simulations. I'm curious about what makes a model work — and what its mistakes can tell us.
 
-Alongside AI, I build **backend services with FastAPI and Django**. My daily setup is **PyCharm on NixOS**.
+Alongside AI, I build **backend services with FastAPI and Django**. My daily setup is **PyCharm on NixOS or Windows**.
 
 <br>
 
