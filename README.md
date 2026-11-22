@@ -1,54 +1,45 @@
 <p align="center">
-  <a href="https://eternalsecond.github.io/#projects">
-    <img src="./assets/hero.svg" width="100%" alt="EternalSecond — Machine Learning, Reinforcement Learning, and Python Backend" />
-  </a>
+  <img src="./assets/hero.svg" width="100%"
+       alt="EternalSecond — Machine Learning, Reinforcement Learning, and Python Backend" />
 </p>
 
 <p align="center">
-  <a href="https://eternalsecond.github.io/#projects"><strong>Portfolio ↗</strong></a>
+  <a href="https://eternalsecond.github.io/#projects"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/EternalSecond?tab=repositories">Repositories ↗</a>
+  <a href="https://github.com/EternalSecond?tab=repositories">Repositories</a>
 </p>
 
-## Selected work
+I build software around questions I want to answer. How does a model behave on examples it hasn’t seen? What does an agent learn when the course changes every run? Can I get the information I need from my headphones without leaving the app I’m using?
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <samp>WINDOWS DESKTOP</samp>
-      <h3><a href="https://github.com/EternalSecond/charge-strip">Charge Strip ↗</a></h3>
-      <p>A compact Windows 11 taskbar widget for peripheral battery levels, media controls, and PC resource usage.</p>
-      <sub>C# · Windows 11</sub>
-    </td>
-    <td width="50%" valign="top">
-      <samp>REINFORCEMENT LEARNING</samp>
-      <h3><a href="https://github.com/EternalSecond/DeepRFModel">DeepRFModel ↗</a></h3>
-      <p>A Double DQN agent that learns to navigate a procedural 2D obstacle course.</p>
-      <sub>Python · PyTorch · Pygame</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <samp>LOCAL AI</samp>
-      <h3><a href="https://github.com/EternalSecond/TerroAI">TerroAI ↗</a></h3>
-      <p>A local Qwen assistant for chat and coding on Windows, with file attachments and offline OCR.</p>
-      <sub>Python · Qwen · OCR</sub>
-    </td>
-    <td width="50%" valign="top">
-      <samp>MACHINE LEARNING</samp>
-      <h3><a href="https://github.com/EternalSecond/Machine-Learning-Course">Machine Learning Course ↗</a></h3>
-      <p>My hands-on notebooks on scikit-learn fundamentals, gradient boosting, and deep learning with PyTorch.</p>
-      <sub>Jupyter · scikit-learn · PyTorch</sub>
-    </td>
-  </tr>
-</table>
+## Featured project
 
-##  What I build & explore,
+### [Charge Strip](https://github.com/EternalSecond/charge-strip)
 
-I build Python projects that put machine learning ideas to work. In DeepRFModel, I train a Double DQN agent to navigate a procedural obstacle course. In my ML notebooks, I’m exploring gradient boosting and digging into where predictions go wrong. I also build APIs with FastAPI and Django to bring models into applications people can use.
+**Battery levels, media controls, and PC stats in one compact Windows 11 widget.**
+
+I wanted to see both batteries in my Arctis headset setup at a glance. That grew into a customizable taskbar island with media controls and a resource monitor. Each module can be enabled, hidden, or moved to fit the way I use my desktop.
+
+<!-- Add assets/charge-strip-demo.gif, then uncomment the line below.
+<p align="center"><img src="./assets/charge-strip-demo.gif" width="760" alt="Charge Strip on the Windows taskbar. The media panel opens and shows the current track and playback controls." /></p>
+-->
+
+**C# · Windows 11** &nbsp;·&nbsp; [View the project →](https://github.com/EternalSecond/charge-strip)
+
+## Machine learning & reinforcement learning
+
+| Project | What I built or studied |
+| :--- | :--- |
+| **[DeepRFModel](https://github.com/EternalSecond/DeepRFModel)** | A Double DQN agent navigating a procedural 2D obstacle course. Built with PyTorch and Pygame. |
+| **[GeometryDash_RFModel](https://github.com/EternalSecond/GeometryDash_RFModel)** | A Gymnasium simulator for a Geometry Dash–inspired environment, with parallel PPO training. |
+| **[Machine Learning Course](https://github.com/EternalSecond/Machine-Learning-Course)** | Practical notebooks covering scikit-learn fundamentals, gradient boosting, and deep learning with PyTorch. |
+
+## Local AI
+
+**[TerroAI](https://github.com/EternalSecond/TerroAI)** is a Windows desktop assistant powered by Qwen. It supports chat, coding, file attachments, and offline OCR.
 
 ## Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,git,pycharm,nix&amp;theme=dark" alt="Python, PyTorch, TensorFlow, FastAPI, Django, Git, PyCharm, and NixOS" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,cs,git,nix&amp;theme=dark"
+       alt="Python, PyTorch, TensorFlow, FastAPI, Django, C#, Git, and NixOS" />
 </p>
