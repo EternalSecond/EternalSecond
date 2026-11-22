@@ -43,9 +43,9 @@
   </tr>
 </table>
 
-## What I’m exploring
+##  What I build & explore,
 
-Right now I’m studying **gradient boosting** and working through practical ML exercises. I’m interested in how models generalize, where they fail, and how reward design changes an agent’s behavior. I also build APIs with **FastAPI** and **Django** to connect models to applications.
+I build Python projects that put machine learning ideas to work. In DeepRFModel, I train a Double DQN agent to navigate a procedural obstacle course. In my ML notebooks, I’m exploring gradient boosting and digging into where predictions go wrong. I also build APIs with FastAPI and Django to bring models into applications people can use.
 
 ## Toolkit
 
